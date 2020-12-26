@@ -1,0 +1,147 @@
+body{
+  background-color: #B36452;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menutitle{
+  color: #3E1309;
+  font-size: 32px;
+}
+
+.logo{
+  height: 126px;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.products_link:link, a.products_link:visited{
+  color: white;
+  text-decoration: none;
+}
+
+a.products_link:hover, a.products_link:active{
+  color: #FEE6CC;
+  text-decoration: none;
+}
+
+.navigation th{
+  width: 100px;
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+#productbox{
+  background-color: white;
+  margin: auto;
+  margin-bottom: 30px;
+  width: 882px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-radius: 5px;
+}
+
+.productimage{
+  width: 154px;
+  height: 181px;
+  padding-bottom: 8px;
+}
+
+#menu td{
+  text-align: center;
+  padding-top: 3px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.code td, .name td{
+    color: #3E1309;
+}
+
+.code td{
+  font-size: 14px;
+}
+
+.name td{
+  font-size: 18px;
+  padding-bottom: 3px;
+  font-weight: bold;
+}
+
+.price1 td{
+  color: #995646;
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+
+.price2 td{
+  color: #995646;
+  font-size: 16px;
+
+}
+
+.name td{
+}
+
+.specificproductimage{
+  margin-top: 50px;
+  margin-bottom: 15px;
+  width: 317px;
+  height: 373px;
+}
+
+a.menu_link:link, a.menu_link:visited{
+  color: #3E1309;
+  text-decoration: none;
+}
+
+a.menu_link:hover, a.menu_link:active{
+  color: #995646;
+  text-decoration: none;
+}
+
+h2{
+  font-size: 16px;
+  font-weight: normal;
+  color: #995646;
+}
+
+p{
+  font-size: 16px;
+  color: #3E1309;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width: 575px;
+}
+
+h3{
+  font-size: 16px;
+  color: #FCCE99;
+  font-weight: normal;
+}
+
+a.back_product_link:link, a.back_product_link:visited{
+  color: #FCCE99;
+  text-decoration: none;
+}
+
+a.back_product_link:hover, a.back_product_link:active{
+  color: #B36452;
+  text-decoration: none;
+}
+
+h4{
+  font-size: 16px;
+  color: #3E1309;
+  font-weight: normal;
+}
